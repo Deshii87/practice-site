@@ -1,0 +1,53 @@
+
+.element1 {
+
+  background-color: rgba(136, 241, 200, 0.6);
+  height: 100vh;
+
+}
+
+.element1 .navbar ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #444444;
+}
+
+.element1 .navbar li {
+
+  float: left;
+}
+
+
+ li a:hover {
+ 
+  background-color: #111;
+
+}
+
+.active {
+
+	background-color: #4CAF50;
+}
+
+.element1 .navbar a {
+  
+  display: block;
+  padding: 8px;
+  text-align: center;
+  color: white;
+}
+
+.header {
+ 
+  text-align: center;
+  margin-top: 10px; 
+}
+
+.p {
+
+	text-align: center;
+	width: 50%;
+}
